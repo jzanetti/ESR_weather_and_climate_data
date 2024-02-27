@@ -1,0 +1,9 @@
+*.pyc
+weather_data_archive
+build
+dist
+*egg-info
+NCEPLIBS-bufr*
+rda-bufr-decode-ADPsfc*
+.vscode/launch.json
+.vscode/settings.json

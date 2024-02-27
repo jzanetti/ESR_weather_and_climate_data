@@ -1,0 +1,17 @@
+[project]
+name = "esr_weather"
+version = "0.0.1"
+authors = [
+  { name="jzanetti1985", email="sijin.zhang@esr.cri.nz" },
+]
+description = "ESR DT Model"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://dev.azure.com/ESR-NZ/DigitalTwin/_git/Sijin_codes?path=/esr_dt_model"
